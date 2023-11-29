@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\nanyr\OneDrive\Escritorio\ProyectoFinal\TestWinApi\TestWinApi\Source.cpp(288,30): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\nanyr\OneDrive\Escritorio\ProyectoFinal\TestWinApi\TestWinApi\Source.cpp(482,29): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\nanyr\OneDrive\Escritorio\ProyectoFinal\TestWinApi\TestWinApi\Source.cpp(1002,9): warning C4101: 'hf': unreferenced local variable
+C:\Users\nanyr\OneDrive\Escritorio\ProyectoFinal\TestWinApi\TestWinApi\Source.cpp(666): warning C4715: 'buscar_doctor_ant': not all control paths return a value
+  TestWinApi.vcxproj -> C:\Users\nanyr\OneDrive\Escritorio\ProyectoFinal\TestWinApi\x64\Debug\TestWinApi.exe
